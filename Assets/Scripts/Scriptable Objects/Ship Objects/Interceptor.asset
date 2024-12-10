@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2207d943ba94a240a77dda2b3ef1c73, type: 3}
+  m_Name: Interceptor
+  m_EditorClassIdentifier: 
+  name: Interceptor
+  price: 0
+  ship: {fileID: 1721963462503528997, guid: a3344e37ce1047e42923270f11c9b47a, type: 3}
+  gunsInstalled: 2
+  fireRate: 2
+  speed: 200
+  lives: 2
+  isBought: 1

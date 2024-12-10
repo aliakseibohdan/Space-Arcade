@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2207d943ba94a240a77dda2b3ef1c73, type: 3}
+  m_Name: Defender
+  m_EditorClassIdentifier: 
+  name: Defender
+  price: 1000
+  ship: {fileID: 6749035972302277598, guid: c8a1e946825517d438d4001619cf6ae8, type: 3}
+  gunsInstalled: 6
+  fireRate: 2
+  speed: 50
+  lives: 4
+  isBought: 0
